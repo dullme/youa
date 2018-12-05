@@ -48,7 +48,7 @@ return [
     */
     'route' => [
 
-        'prefix' => 'admin',
+        'prefix' => 'admin-nimda',
 
         'namespace' => 'App\\Admin\\Controllers',
 

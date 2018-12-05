@@ -4,12 +4,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="format-detection" content="telephone=yes">
-    <title>区块链项目白皮书撰写-虚拟数字交易所开发-区块链宣传片制作_友链科技</title>
+    <title>{{ $title ?? '宁波友链科技有限公司'}}</title>
     <meta name="description" content=""/>
     <meta name="keywords" content=""/>
-    <meta name="author" content="order by hibps.com"/>
+    <meta name="author" content="order by {{ config('uri') }}"/>
     <meta name="renderer" content="webkit">
-    <meta name="360-site-verification" content="fed703b085818ddc1a30be90e7215249"/>
     <!--ico-->
     <link rel="stylesheet" type="text/css" href="{{ asset('skin/css/base.css') }}"/>
     <link rel="stylesheet" type="text/css" href="{{ asset('skin/css/animate.min.css') }}"/>
@@ -113,7 +112,7 @@
 <div class="footer">
     <div class="rowFluid">
         <div class="span12">
-            <div class="copyright">Copyright © 2002-2018 hibps.COM hi白皮书 版权所有 粤ICP备326565959号</div>
+            <div class="copyright">Copyright © 2002-2018 {{ config('uri') }} hi白皮书 版权所有 粤ICP备326565959号</div>
         </div>
     </div>
 </div>
