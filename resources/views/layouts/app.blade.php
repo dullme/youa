@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="format-detection" content="telephone=yes">
     <title>{{ $title ?? '宁波友链科技有限公司'}}</title>
-    <meta name="description" content=""/>
-    <meta name="keywords" content=""/>
+    <meta name="description" content="{{ config('description') }}"/>
+    <meta name="keywords" content="{{ config('keywords') }}"/>
     <meta name="author" content="order by {{ config('uri') }}"/>
     <meta name="renderer" content="webkit">
     <!--ico-->
