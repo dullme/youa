@@ -9,69 +9,42 @@ use Illuminate\Http\Request;
 class HomeController extends Controller
 {
 
-    public function index()
+    public function indexCn()
     {
         $title = config('index_title');
         $news = Post::all();
         $partners = Partner::all();
-        return view('index', compact('news', 'partners', 'title'));
+        return view('index_cn', compact('news', 'partners', 'title'));
     }
 
-    public function fangan()
+    public function indexEn()
     {
-        $title = '项目包装-宁波友链科技有限公司';
-        return view('fangan', compact('title'));
-    }
-
-    public function about()
-    {
-        $title = '白皮书撰写-宁波友链科技有限公司';
-        return view('about', compact('title'));
-    }
-
-    public function anli()
-    {
-        $title = '交易所开发-宁波友链科技有限公司';
-        return view('anli', compact('title'));
-    }
-
-    public function fangan5()
-    {
-        $title = '交易所开发-宁波友链科技有限公司';
-        return view('fangan5', compact('title'));
-    }
-
-    public function daibi()
-    {
-        $title = '代币发行-宁波友链科技有限公司';
-        return view('daibi', compact('title'));
-    }
-
-    public function zhichi()
-    {
-        $title = '技术支持-宁波友链科技有限公司';
-        return view('zhichi', compact('title'));
-    }
-
-    public function lianxi()
-    {
-        $title = '联系我们-宁波友链科技有限公司';
-        return view('lianxi', compact('title'));
+//        $title = config('index_title');
+//        $news = Post::all();
+//        $partners = Partner::all();
+//        return view('index', compact('news', 'partners', 'title'));
+        return view('index_en');
     }
 
     public function news($type, Request $request)
     {
-        $title = '新闻资讯-宁波友链科技有限公司';
-        $news = Post::where('type', $type)->paginate(20);
+        if($type == 'cn'){
+            $t = 1;
+        }else{
+            $t = 2;
+        }
 
-        return view('news', compact('news', 'title'));
+        $title = '新闻资讯';
+        $news = Post::where('type', $t)->orderBy('created_at', 'DESC')->get();
+
+        return view('news_'.$type, compact('news', 'title'));
     }
 
     public function new($id)
     {
         $new = Post::findOrFail($id);
-        $title = $new->title.'-宁波友链科技有限公司';
+        $title = $new->title;
 
-        return view('new', compact('new', 'title'));
+        return view('news_detail_cn', compact('new', 'title'));
     }
 }

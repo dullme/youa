@@ -84,13 +84,17 @@ class PostController extends Controller
         $grid->id('序号');
         $grid->title('标题');
         $grid->type('类型')->display(function ($type){
-            $data = ['1' => '平台动态', '2'=> '行业动态', '3'=>'帮助中心'];
+            $data = ['1' => '中文', '2'=> '英文'];
 
             return $data[$type];
         });
         $grid->author('作者');
         $grid->created_at('创建时间');
         $grid->updated_at('更新时间');
+
+        $grid->filter(function ($filter){
+            $filter->equal('type','类型')->select(['1' => '中文', '2'=> '英文']);
+        });
 
         return $grid;
     }
@@ -110,7 +114,7 @@ class PostController extends Controller
         $show->describe('描述');
         $show->content('详情');
         $show->type('类型')->as(function ($type){
-            $data = ['1' => '平台动态', '2'=> '行业动态', '3'=>'帮助中心'];
+            $data = ['1' => '中文', '2'=> '英文'];
 
             return $data[$type];
         });
@@ -133,7 +137,7 @@ class PostController extends Controller
         $form->text('title', '标题')->rules('required', ['标题不能为空']);
         $form->textarea('describe', '描述')->rules('required', ['描述不能为空']);
         $form->editor('content', '详情')->rules('required', ['详情不能为空']);
-        $form->select('type', '类型')->options(['1' => '平台动态', '2'=> '行业动态', '3'=>'帮助中心'])->rules('required', ['类型不能为空']);
+        $form->select('type', '类型')->options(['1' => '中文', '2'=> '英文'])->rules('required', ['类型不能为空']);
         $form->text('author', '作者')->default('admin')->rules('required', ['作者不能为空']);
 
         return $form;
