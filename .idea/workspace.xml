@@ -2,130 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dce9885-fe05-4e0d-8021-5a2f325130f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/autoptimize_40113263fbfff0fef57f32c1f8fe5b26.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/autoptimize_98315ef702d294dbcbe07fbb69e27c3e.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/css.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/graph-lobelia-a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/graph-lobelia-b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/header-image-lobelia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/icon-cash.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/icon-connect.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/icon-crowd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/icon-crypto-currency.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/icon-decentralize-network.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/icon-decentralized.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/icon-fund.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/icon-relational-blockchain.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/icon-reward.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/icon-server.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/icon-wallet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/mobile-app.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/partner-md-a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/partner-md-b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/partner-md-c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/partner-md-d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/partner-md-e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/partner-sm-a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/partner-sm-b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/partner-sm-c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/partner-sm-d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/partner-xs-a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/partner-xs-b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/partner-xs-c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/partner-xs-d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/partner-xs-e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/partner-xs-f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/team-a-sq.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/team-b-sq.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/team-c-sq.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/team-d-sq.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/translate_24dp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/translateelement(1).css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/translateelement.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/video-cover.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/wp-emoji-release.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/css/new/autoptimize_98315ef702d294dbcbe07fbb69e27c3e.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/css/new/css.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/css/new/translateelement.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/1234567899.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/chart-lobelia-a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/chart-lobelia-b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/graph-lobelia-a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/graph-lobelia-b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/header-image-lobelia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/icon-cash.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/icon-connect.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/icon-crowd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/icon-crypto-currency.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/icon-decentralize-network.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/icon-decentralized.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/icon-developers.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/icon-fund.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/icon-investors.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/icon-networks.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/icon-payments.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/icon-relational-blockchain.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/icon-reward.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/icon-server.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/icon-wallet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/mobile-app.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/partner-md-a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/partner-md-b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/partner-md-c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/partner-md-d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/partner-md-e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/partner-sm-a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/partner-sm-b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/partner-sm-c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/partner-sm-d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/partner-xs-a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/partner-xs-b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/partner-xs-c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/partner-xs-d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/partner-xs-e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/partner-xs-f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/team-a-sq.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/team-b-sq.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/team-c-sq.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/team-d-sq.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/team-f-sq.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/team-g-sq.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/images/new/video-cover.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/js/new/autoptimize_40113263fbfff0fef57f32c1f8fe5b26.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/js/new/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Public/Home/js/new/wp-emoji-release.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/uploads/Coin/2019-04-24/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/uploads/images/46bf242f075df5fe66c88fa8e827d9ce.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/uploads/images/ad1c63e6a74908322f4e55f280fbeab1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/uploads/images/partner-xs-a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/index_cn.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/index_en.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/news_cn.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/news_detail_cn.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/news_en.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/news_detail_en.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Admin/Controllers/PostController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Admin/Controllers/PostController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/admin.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/images/026.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/images/027.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/images/028_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/images/029.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/images/030.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/uploads/Coin/2019-04-24/5cc05a16aacc1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/images/0311.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/images/0322.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/HBY - Creating a better future_files/5cc05a16aacc1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/about.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/anli.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/daibi.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/fangan.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/index.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/lianxi.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/new.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/news.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/zhichi.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/index_en.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index_en.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/news_en.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/news_en.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -142,8 +23,46 @@
   <component name="FavoritesManager">
     <favorites_list name="youa" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/index_en.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="144" column="16" selection-start-line="144" selection-start-column="16" selection-end-line="144" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>href=&quot;indexen.html#</find>
+      <find>index.html</find>
+      <find>pdf</find>
+      <find>44 0123 4567</find>
+      <find>content</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>href=&quot;/en#</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/resources/views/index_cn2.blade.php" />
+        <option value="$PROJECT_DIR$/storage/framework/views/5b6f48d3a103784a2173494caa6f0ebe2427bb57.php" />
+        <option value="$PROJECT_DIR$/resources/views/news_en.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" />
+        <option value="$PROJECT_DIR$/resources/views/news_detail_en.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/index_en.blade.php" />
+      </list>
+    </option>
   </component>
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
@@ -233,9 +152,62 @@
       <path value="$PROJECT_DIR$/vendor/laravel-admin-ext/media-manager" />
     </include_path>
   </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
   <component name="ProjectId" id="1QaVLeXdEeHiXg1MOfabvdJQxXU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="youa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youa" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youa" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youa" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youa" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youa" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -250,16 +222,16 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Apache Config" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/views" />
+      <recent name="$PROJECT_DIR$/public/skin/images" />
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/public/js" />
       <recent name="$PROJECT_DIR$/public/css" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/resources/views" />
-      <recent name="$PROJECT_DIR$/public/skin/images" />
-      <recent name="$PROJECT_DIR$/public" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -287,8 +259,39 @@
       <workItem from="1543995387999" duration="14532000" />
       <workItem from="1568008641668" duration="627000" />
       <workItem from="1568014655738" duration="6720000" />
+      <workItem from="1568115103597" duration="1583000" />
     </task>
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1583000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="npm" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.275" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -299,12 +302,93 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
               <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/index_cn2.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="692">
+          <caret line="171" column="46" selection-start-line="171" selection-start-column="46" selection-end-line="171" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="48" column="16" lean-forward="true" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="710">
+          <caret line="49" column="39" selection-start-line="49" selection-start-column="39" selection-end-line="49" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/news_detail_cn.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/news_en.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="204" column="25" lean-forward="true" selection-start-line="153" selection-start-column="20" selection-end-line="204" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/news_detail_en.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="234" column="197" lean-forward="true" selection-start-line="234" selection-start-column="197" selection-end-line="234" selection-end-column="197" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/index_cn.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="143" column="21" lean-forward="true" selection-start-line="138" selection-start-column="16" selection-end-line="143" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/index_en.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="144" column="16" selection-start-line="144" selection-start-column="16" selection-end-line="144" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>

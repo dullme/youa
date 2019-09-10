@@ -232,8 +232,12 @@
                                             <div class="section-head text-center">
                                                 <h2 class="section-title animated fadeInUp" data-animate="fadeInUp" data-delay=".1" style="visibility: visible; animation-delay: 0.1s;">
                                                     <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                                                            NEWS </font></font><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">NEWS</font></font></span>
+                                                            {{ $new->title }} </font></font><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"></font></font></span>
                                                 </h2>
+                                                <p>
+                                                    <span style="color: #ffffff; margin-right: 10px">Author：{{ $new->author }}</span>
+                                                    <span style="color: #ffffff">Time：{{ substr($new->created_at, 0, 10) }}</span>
+                                                </p>
                                             </div>
 
                                             <div class="vc_empty_space" style="height: 50px"><span class="vc_empty_space_inner"></span></div>
@@ -241,44 +245,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="vc_row wpb_row vc_inner vc_row-fluid">
-                                <div data-animate="fadeInUp" data-delay="0.2" class="wpb_column vc_column_container vc_col-sm-12 animated fadeInUp" style="visibility: visible; animation-delay: 0.2s;">
-                                    <div class="vc_column-inner ">
-                                        <div class="wpb_wrapper">
-                                            <div class="timeline-list">
-
-                                                @foreach($news as $key=>$new)
-                                                    @if($key%2 == 0)
-                                                        <div class="row">
-                                                            <div class="col-md-4 offset-md-2 text-md-right">
-                                                                <div class="timeline-content  timeline-content-left ">
-                                                                    <h6><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><a href="{{ url('new/'.$new['id']) }}">{{ $new['title'] }}</a></font></font></h6>
-                                                                    <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{{ $new['describe'] }}</font></font></p>
-                                                                    <p style="font-size: 10px">{{ substr($new['created_at'],0, 10) }}</p>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        @else
-                                                        <div class="row">
-                                                            <div class="col-md-4 offset-md-6">
-                                                                <div class="timeline-content   ">
-                                                                    <h6><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><a href="{{ url('new/'.$new['id']) }}">{{ $new['title'] }}</a></font></font></h6>
-                                                                    <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">{{ $new['describe'] }}</font></font></p>
-                                                                    <p style="font-size: 10px">{{ substr($new['created_at'],0, 10) }}</p>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    @endif
-                                                @endforeach
-
-
-
-                                            </div>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                            {!! $new->content !!}
                         </div>
                     </div>
                 </div>
