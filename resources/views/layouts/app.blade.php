@@ -112,7 +112,7 @@
 <div class="footer">
     <div class="rowFluid">
         <div class="span12">
-            <div class="copyright">Copyright © 2002-2018 {{ config('uri') }} hi白皮书 版权所有 粤ICP备326565959号</div>
+            <div class="copyright">Copyright © 2002-2018 {{ config('uri') }} hi白皮书 版权所有 {{config('beianhao')}}</div>
         </div>
     </div>
 </div>
