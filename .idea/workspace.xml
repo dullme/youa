@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dce9885-fe05-4e0d-8021-5a2f325130f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Admin/Extensions/CKEditor.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Admin/Extensions/WangEditor.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/skin/images/caseTitle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/skin/images/label.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/ckeditor.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/wang-editor.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/anli-old.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/detail.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/program.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Admin/bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Admin/bootstrap.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Admin/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Admin/routes.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/anli.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/anli.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +147,7 @@
       <workItem from="1586943020705" duration="383000" />
       <workItem from="1587002888047" duration="528000" />
       <workItem from="1587003794827" duration="622000" />
-      <workItem from="1587085552182" duration="13732000" />
+      <workItem from="1587085552182" duration="14072000" />
     </task>
     <servers />
   </component>
