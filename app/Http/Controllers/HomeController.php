@@ -2,8 +2,11 @@
 
 namespace App\Http\Controllers;
 
+use App\Anli;
+use App\Category;
 use App\Partner;
 use App\Post;
+use App\Program;
 use Illuminate\Http\Request;
 
 class HomeController extends Controller
@@ -32,7 +35,28 @@ class HomeController extends Controller
     public function anli()
     {
         $title = '交易所开发-宁波友链科技有限公司';
-        return view('anli', compact('title'));
+
+        $categories = Category::pluck('name', 'id');
+
+        $query = Anli::query();
+        $query->when(request('type'), function ($q) {
+            return $q->where('category_id', request('type'));
+        });
+
+        $anlis = $query->orderBy('created_at', 'DESC')->select('id','category_id', 'title', 'image', 'uri', 'type', 'features', 'is_app')->paginate(12);
+
+        return view('anli', compact('title', 'categories', 'anlis'));
+    }
+
+    public function detail($id)
+    {
+        $title = '交易所开发-宁波友链科技有限公司';
+
+        $anli = Anli::findorFail($id);
+
+        $randoms = Anli::inRandomOrder()->where('id','!=', $id)->select('id','category_id', 'title', 'image', 'uri', 'type', 'features', 'is_app')->take(2)->get();
+
+        return view('detail', compact('title', 'anli', 'randoms'));
     }
 
     public function fangan5()
@@ -73,5 +97,14 @@ class HomeController extends Controller
         $title = $new->title.'-宁波友链科技有限公司';
 
         return view('new', compact('new', 'title'));
+    }
+
+    public function program()
+    {
+        $title = '解决方案-宁波友链科技有限公司';
+
+       $programs = Program::all();
+
+        return view('program', compact('title', 'programs'));
     }
 }

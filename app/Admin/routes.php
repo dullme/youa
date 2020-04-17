@@ -14,5 +14,8 @@ Route::group([
     $router->resource('links', LinkController::class);
     $router->resource('news', PostController::class);
     $router->resource('partner', PartnerController::class);
+    $router->resource('category', CategoryController::class);
+    $router->resource('anli', AnliController::class);
+    $router->resource('program', ProgramController::class);
 
 });

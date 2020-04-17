@@ -42,10 +42,10 @@
                     <li><a href="{{ url('/') }}" title="首页">首页</a></li>
                     <li><a href="{{ url('/fangan') }}" title="项目包装">项目包装</a></li>
                     <li><a href="{{ url('/about') }}" title="白皮书">白皮书撰写</a></li>
-                    <li><a href="{{ url('/anli') }}" title="交易所">交易所开发</a></li>
-                    <li><a href="fangan5.html" title="需求填写" target="_blank">需求填写</a></li>
-
-                    <li><a href="{{ url('/daibi') }}" title="代币发行">代币发行</a></li>
+                    <li><a href="{{ url('/anli') }}" title="案例">案例</a></li>
+                    <li><a href="{{ url('/program') }}" title="解决方案">解决方案</a></li>
+{{--                    <li><a href="{{ url('/anli') }}" title="交易所">交易所开发</a></li>--}}
+{{--                    <li><a href="{{ url('/daibi') }}" title="代币发行">代币发行</a></li>--}}
                     <li><a href="{{ url('/news/1') }}?type=1" title="新闻资讯">新闻资讯</a></li>
 
                     <li><a href="{{ url('/zhichi') }}" title="技术支持">技术支持</a></li>
