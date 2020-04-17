@@ -39,6 +39,7 @@ class HomeController extends Controller
         $categories = Category::pluck('name', 'id');
 
         $query = Anli::query();
+        $query->with('category');
         $query->when(request('type'), function ($q) {
             return $q->where('category_id', request('type'));
         });

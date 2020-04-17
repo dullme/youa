@@ -61,7 +61,7 @@
                                                         @endif
                                                     </div>
                                                     <span>{{ $item->title }}</span>
-                                                    @if($item->type)<p>类别：{{ $item->type }}</p>@endif
+                                                    @if($item->type)<p>类别：{{ $item->category->name }}</p>@endif
                                                     @if($item->features)<p>特点：{{ $item->features }}</p>@endif
                                                 </a>
                                                 @if($item->uri)

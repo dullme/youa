@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5dce9885-fe05-4e0d-8021-5a2f325130f0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Admin/bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Admin/bootstrap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/anli.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/anli.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +148,7 @@
       <workItem from="1586943020705" duration="383000" />
       <workItem from="1587002888047" duration="528000" />
       <workItem from="1587003794827" duration="622000" />
-      <workItem from="1587085552182" duration="14072000" />
+      <workItem from="1587085552182" duration="14589000" />
     </task>
     <servers />
   </component>
@@ -167,10 +168,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="719" y="136" key="RollbackChangesDialog/0.0.1920.1080/-1792.0.1792.1120@0.0.1920.1080" timestamp="1587093278177" />
-    <state width="795" height="600" key="SwitcherDM" timestamp="1587104453968">
+    <state width="795" height="600" key="SwitcherDM" timestamp="1587114159620">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="795" height="600" key="SwitcherDM/0.0.1920.1080/-1792.0.1792.1120@0.0.1920.1080" timestamp="1587104453968" />
+    <state width="795" height="600" key="SwitcherDM/0.0.1920.1080/-1792.0.1792.1120@0.0.1920.1080" timestamp="1587114159620" />
   </component>
   <component name="masterDetails">
     <states>
