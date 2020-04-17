@@ -119,7 +119,7 @@ class AnliController extends Controller
         $show->category_id('分类');
         $show->title('标题');
         $show->image('主图');
-        $show->type('类别');
+//        $show->type('类别');
         $show->features('特点');
         $show->uri('地址');
         $show->is_app('是否支持App');
@@ -145,7 +145,7 @@ class AnliController extends Controller
         $form->select('category_id', '分类')->options($categories)->required();
         $form->text('title', '标题')->required();
         $form->image('image', '主图');
-        $form->text('type', '类别');
+//        $form->text('type', '类别');
         $form->text('features', '特点');
         $form->text('uri', '地址');
         $form->switch('is_app', '是否支持App');
